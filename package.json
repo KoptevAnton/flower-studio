@@ -1,11 +1,11 @@
 {
-  "name": "flow-1",
+  "name": "flower-studio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/flow-1/",
+    "build": "vite build --base=/flower-studio/",
     "preview": "vite preview"
   },
   "devDependencies": {
