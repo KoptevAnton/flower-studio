@@ -1,6 +1,6 @@
 •   In a recent group project, I took on the role of a developer, focusing specifically on the Hero section. 
 My responsibilities included ensuring that the adaptive layout and animations operated seamlessly, particularly 
-on mobile devices, and providing support to my colleagues when they faced challenges.
+on mobile devices, and also providing support to my colleagues when they faced challenges.
 
 1. Project Overview:
     We worked on a web development for a flower studio called "Anemone," employing modern tools like Vite for development and building.
