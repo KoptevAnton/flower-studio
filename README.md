@@ -3,7 +3,7 @@ My responsibilities included ensuring that the adaptive layout and animations op
 on mobile devices, and also providing support to my colleagues when they faced challenges.
 
 1. Project Overview:
-    We worked on a web development for a flower studio called "Anemone," employing modern tools like Vite for development and building.
+    We worked on a web development for a flower studio called "Anemone" employing modern tools like Vite for development and building.
 
 2. Frontend Technologies:
     The project utilized HTML5, CSS, and JavaScript.
