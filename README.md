@@ -30,5 +30,5 @@ on mobile devices, and also providing support to my colleagues when they faced c
     We employed Prettier for consistent code formatting.
 
 •   In conclusion, this project exemplifies best practices in modern web development, emphasizing performance, 
-maintainability,and user experience. The effective collaboration and project management were facilitated by our 
+maintainability, and user experience. The effective collaboration and project management were facilitated by our 
 use of GitHub and the Scrum Agile methodology.
