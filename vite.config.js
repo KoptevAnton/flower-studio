@@ -7,9 +7,16 @@ export default defineConfig({
   root: 'src',
   build: {
     rollupOptions: {
-      input: glob.sync('./src/*.html'),
+      input: glob.sync('./src/*.html'), 
     },
     outDir: '../dist',
   },
-  plugins: [injectHTML(), FullReload(['./src/**/**.html'])],
+  plugins: [
+    injectHTML({
+    }),
+    FullReload(['./src/**/*.html'], { delay: 200 }), // Додаткові опції для налаштування повного перезавантаження
+  ],
+  optimizeDeps: {
+    include: ['jquery'],
+  },
 });
