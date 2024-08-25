@@ -1,3 +1,4 @@
+•   We worked on a web development for a Flower Studio called "Anemone". This project exemplifies best practices in modern web development and user experience. 
 •   In a recent group project, I took on the role of a developer, focusing specifically on the Hero section. 
 My responsibilities included ensuring that the adaptive layout and animations operated seamlessly, particularly 
 on mobile devices, and also providing support to my colleagues when they faced challenges.
@@ -29,6 +30,6 @@ on mobile devices, and also providing support to my colleagues when they faced c
 9. Code Quality:
     We employed Prettier for consistent code formatting.
 
-•   In conclusion, this project exemplifies best practices in modern web development, emphasizing performance, 
-maintainability, and user experience. The effective collaboration and project management were facilitated by our 
+•   In conclusion, this project exemplifies emphasizing performance and
+maintainability. The effective collaboration and project management were facilitated by our 
 use of GitHub and the Scrum Agile methodology.
