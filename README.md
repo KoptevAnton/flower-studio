@@ -1,4 +1,4 @@
-•   Project Overview: We worked on a web development for a flower-studio called "Anemone" employing modern tools like Vite for development and building.
+##•   Project Overview: We worked on a web development for a Flower Studio called "Anemone" employing modern tools like Vite for development and building.
 
 •   In a recent group project, I took on the role of a developer, focusing specifically on the Hero section. 
 My responsibilities included ensuring that the adaptive layout and animations operated seamlessly, particularly 
