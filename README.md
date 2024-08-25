@@ -1,4 +1,5 @@
 •   We worked on a web development for a Flower Studio called "Anemone". This project exemplifies best practices in modern web development and user experience. 
+
 •   In a recent group project, I took on the role of a developer, focusing specifically on the Hero section. 
 My responsibilities included ensuring that the adaptive layout and animations operated seamlessly, particularly 
 on mobile devices, and also providing support to my colleagues when they faced challenges.
